@@ -1,0 +1,2 @@
+WARN: main.go:82: warning A
+ERROR: main.go:86: critical error
